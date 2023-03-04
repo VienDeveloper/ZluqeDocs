@@ -1,0 +1,7 @@
+site_name: Zluqe Documentary
+nav:
+    - Home: index.md
+    - Zalix Website: https://zluqe.com
+    - Discord: https://discord.com
+theme:
+    name: cosmo
