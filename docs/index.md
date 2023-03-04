@@ -4,14 +4,15 @@ A Documentary for Zalix Hosting Service
 
 ## Programming Languages available
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `NodeJS` - Latest NodeJS version
+* `Python 3` - Latest Python version
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##  Project layout: `NodeJS`
+*    package.json 
+*    package-lock.js
+*    app.js (can be anything)
+
+##  Project layout: `Python3`
+*    requirements.txt
+*    bot.py
